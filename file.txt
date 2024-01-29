@@ -7,3 +7,4 @@ Fourth line added.
 7th line added
 An emergency fixed has been done.
 An small-error detected
+Master line added
