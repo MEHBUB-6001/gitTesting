@@ -9,3 +9,4 @@ An emergency fixed has been done.
 An small-error detected
 Master line added
 Another emergency fixed has been done.
+Another new error has been fixed
