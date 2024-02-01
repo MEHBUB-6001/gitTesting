@@ -14,3 +14,4 @@ Another new error detected.
 hello master
 Hello new Error
 push to remote
+login feature added
